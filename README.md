@@ -1,8 +1,7 @@
 # face recognition by occlusion aware gan
 
 
-#### TODO List
-
+### TODO List
 <img src="https://user-images.githubusercontent.com/47767202/117538385-e3223f00-b040-11eb-955c-bf317b293d16.png" width="70%">
 
 - [ ] 데이터 수집 및 전처리(landmark검출->resize)
@@ -23,5 +22,5 @@
 
 
 
-#### reference
+### reference
 [Semi-supervised Natural Face De-Occlusion](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/9195444)
