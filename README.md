@@ -18,6 +18,11 @@
   - [x] oa module(지혜승건팀)의 xocc와 M eltw 결과를 3의 바로위 결과와 sum(->discriminator의 input)
 - [x] `소현나연` -> Discriminator
 - [ ] `지혜승건` -> loss function(pair-perceptual, style, pixel, smooth, L2, adversarial / unpair-smooth, L2, adversarial)
+  - ![image](https://user-images.githubusercontent.com/59957268/135426795-a6c131f9-162a-4a1b-ae92-bc3bf1590b93.png)
+  - ![image](https://user-images.githubusercontent.com/59957268/135426889-afe57d2b-df52-4567-913f-1a97e783b5e9.png)
+  - ![image](https://user-images.githubusercontent.com/59957268/135426968-e8e73308-437e-4f81-a993-4b544c8caec3.png)
+  - ![image](https://user-images.githubusercontent.com/59957268/135427113-f23f4bd7-fa05-46e2-b7cb-fe9087a43a6b.png)
+  - 
 - [ ] train
 - [ ] ...
 
